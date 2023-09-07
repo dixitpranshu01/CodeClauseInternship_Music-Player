@@ -1,1 +1,1 @@
-# CodeClauseInternship_Music-Player
+# Music-Player
